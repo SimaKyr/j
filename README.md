@@ -1,2 +1,2 @@
 # j
-Using for detect internet
+Using for detect internet in Tykan Browser
